@@ -1,44 +1,53 @@
-
 html,
 #root,
-canvas{
+canvas {
   width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
 }
-body{
-    background: #091200;
-
+body {
+  background: #091200;
 }
-h1{
+h1 {
   font-family: helvetica;
   font-weight: 700;
   font-size: 20em;
   text-align: center;
-  color: 	rgb(188,143,143);
+  color: rgb(188, 143, 143);
   position: absolute;
   top: -30px;
   left: 80px;
   align-items: center;
 }
-h2{
+h2 {
   font-family: helvetica;
   font-weight: 700;
   font-size: 20em;
   text-align: center;
-  color: 	rgb(188,143,143);
+  color: rgb(188, 143, 143);
   position: absolute;
   top: -30px;
   left: 80px;
   align-items: center;
 }
-h3{
+h3 {
   font-family: helvetica;
   font-weight: 700;
   font-size: 20em;
   text-align: center;
-  color: 	rgb(188,143,143);
+  color: rgb(188, 143, 143);
+  position: absolute;
+  top: -30px;
+  left: 80px;
+  align-items: center;
+}
+h4 {
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 20em;
+  text-align: center;
+  color: rgb(188, 143, 143);
   position: absolute;
   top: -30px;
   left: 80px;
@@ -46,7 +55,7 @@ h3{
 }
 
 @media (max-width: 1400px) {
-    h1 {
-        font-size: 60px;
-    }
+  h1 {
+    font-size: 60px;
+  }
 }
