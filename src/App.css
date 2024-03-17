@@ -24,17 +24,17 @@ h2 {
   font-family: helvetica;
   font-weight: 700;
   font-size: 18em;
+}
+h3 {
+  font-family: helvetica;
+  font-weight: 700;
+  font-size: 16em;
   text-align: center;
   color: rgb(188, 143, 143);
   position: absolute;
   top: -30px;
   left: 80px;
   align-items: center;
-}
-h3 {
-  font-family: helvetica;
-  font-weight: 700;
-  font-size: 16em;
 }
 h4 {
   font-family: helvetica;
