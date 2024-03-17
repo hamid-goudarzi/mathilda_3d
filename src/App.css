@@ -67,6 +67,7 @@ h5 {
   left: 80px;
   align-items: center;
 }
+
 @media (max-width: 1400px) {
   h1 {
     font-size: 60px;
