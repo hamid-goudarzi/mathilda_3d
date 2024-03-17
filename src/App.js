@@ -37,6 +37,9 @@ const Controls = () => {
 const App = () => {
   return (
     <>
+      <h1 class="w3-row">
+        Mathi<span>l</span>da
+      </h1>
       <Canvas
         camera={{ position: [200, 200, 200] }}
         onCreated={({ gl }) => {
