@@ -47,8 +47,9 @@ const App = () => {
           gl.shadowMap.type = THREE.PCFSoftShadowMap;
         }}
       >
+        <ambientLight intencity={0.5} />
         <spotLight position={[15, 20, 5]} penumbra={1} castShadow />
-        <Controls />
+
         <MyModel />
       </Canvas>
     </>
