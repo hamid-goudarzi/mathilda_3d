@@ -4,6 +4,7 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { Canvas, useFrame, extend, useThree } from "react-three-fiber";
 import * as THREE from "three";
 import "./App.css";
+
 extend({ OrbitControls });
 
 const MyModel = () => {
