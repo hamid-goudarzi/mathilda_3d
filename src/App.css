@@ -10,7 +10,6 @@ body {
   background: #091200;
 }
 
-
 h1 {
   font-family: helvetica;
   font-weight: 700;
@@ -22,7 +21,6 @@ h1 {
   left: 80px;
   align-items: center;
 }
-
 
 h2 {
   font-family: helvetica;
@@ -57,6 +55,7 @@ h4 {
   left: 80px;
   align-items: center;
 }
+
 h5 {
   font-family: helvetica;
   font-weight: 700;
